@@ -12,3 +12,6 @@
 ###### Note: Timeout length cannot be more than 30 seconds.
 ###### Note: Timeout abilties require the Twitch Account and OAuth to be a mod or the broadcaster
 ###### Note: Timeout length can only be adjusted in modprefs.ini
+
+### Everyone:
+#### !thanos (adds user to the snap list)
