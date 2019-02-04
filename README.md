@@ -15,3 +15,9 @@
 
 ### Everyone:
 #### !thanos (adds user to the snap list)
+
+
+## Credits
+#### Libraries: CustomUI (brian) and AsyncTwitch (Soliel)
+#### Testers: Calvinisacat (https://www.twitch.tv/calvin_isacat) and SkyKiwi (http://skykiwi.tv)
+#### Inspiration and Support: LeBandit915, Kyle1413K, and brian
