@@ -10,7 +10,7 @@
 #### !snap timeout disable (disable the timeout feature)
 
 ###### Note: Timeout length cannot be more than 30 seconds.
-###### Note: Timeout abilties require the Twitch Account and OAuth to be a mod or the broadcaster
+###### Note: Timeout abilities require the Twitch Account and OAuth to be a mod or the broadcaster
 ###### Note: Timeout length can only be adjusted in modprefs.ini
 
 ### Everyone:
